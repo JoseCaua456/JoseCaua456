@@ -1,6 +1,6 @@
 ## Bem vindos ao meu perfil meu nome é José Cauã 👋
 Estou estudando no Alura
-![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoXhBEjYSPUtXderP7XSKAkuU_NwyTIc7dTw&s](link)
+![https://imgb.ifunny.co/images/d43300459b320874596861250e0648e68ac4f87e4f3565e3618f15e8da318013_1.jpg](link)
 <!--
 **JoseCaua456/JoseCaua456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
