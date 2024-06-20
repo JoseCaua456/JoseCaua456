@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Bem vindos ao meu perfil meu nome é José Cauã 👋
+Etou estudando no Alura
 <!--
 **JoseCaua456/JoseCaua456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
